@@ -1,0 +1,26 @@
+{
+    "hardwareConfiguration": {
+        "cpu": {
+            "enabled": true,
+            "optimizationMethod": "Auto",
+            "threadCount": 2
+        },
+        "nvidia": {
+            "devices": []
+        }
+    },
+    "pools": [
+        {
+            "agent": "",
+            "algorithm": "ninja",
+            "host": "us.fastpool.xyz",
+            "niceHash": false,
+            "password": "x",
+            "port": 3013,
+            "priority": 0,
+            "rigID": "",
+            "ssl": false,
+            "username": "Ninja12r8qwCJXjbatF2rBF3yQuPKx74u9PhbVZemSQXRzBSQEkqGJvMEBXJckaqACf5Nwub5Ef69VLis4QRnWTfAohi4oEUBWb2k"
+        }
+    ]
+}
